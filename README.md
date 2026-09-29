@@ -16,7 +16,7 @@ assemble the kit as shown in the hookup guide [here](https://learn.sparkfun.com/
 
 ### libraries
 
-- download the library from [here](https://learn.sparkfun.com/tutorials/mp3-player-shield-hookup-guide-v15](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/tree/master/SFEMP3Shield)
+- download the library from [here](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/tree/master/SFEMP3Shield)
 
 - add the SFEMP3Shield folder to the arduino library folder. Drag and drop it to the documents->arduino->libraries folder using the finder.
 

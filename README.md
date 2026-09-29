@@ -1,2 +1,25 @@
-# making-a-mp3-play-using-Arduino-MEGA
-instructions for using an mp3 shield and an Arduino MEGA to play mp3 audio files
+### assembly
+
+assemble the kit as shown in the diagram above
+
+### libraries
+
+- download the library from [here](https://learn.sparkfun.com/tutorials/mp3-player-shield-hookup-guide-v15)
+
+- add the SFEMP3Shield folder to the arduino library folder. Drag and drop it to the documents->arduino->libraries folder using the finder.
+
+- when you load arduino, the library should be loaded.
+
+### SD card
+
+- take the SD card and insert into a card reader or desktop computer.
+
+- Add the files to the card. make sure the SD card has the files labeled TRACK_01.mp3 and then in sequence.
+
+- insert the SD card to the mp3 shield
+
+### run the sketch
+
+- Upoad the sketch above to the arduino. 
+
+- It should play the first track on the mp3 shield.

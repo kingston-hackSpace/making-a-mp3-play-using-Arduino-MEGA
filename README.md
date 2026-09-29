@@ -6,6 +6,12 @@ The mp3 shield allows audio playback using an arduino as the trigger. Speakers c
 
 ### assembly
 
+you will need...
+
+- Arduino MEGA
+- speark fun mp3 shield
+- speaker with phono jack
+
 assemble the kit as shown in the diagram above
 
 ### libraries

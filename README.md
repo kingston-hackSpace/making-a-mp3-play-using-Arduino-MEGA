@@ -26,7 +26,7 @@ assemble the kit as shown in the hookup guide [here](https://learn.sparkfun.com/
 
 - take the SD card and insert into a card reader or desktop computer.
 
-- Add the files to the card. make sure the SD card has the files labeled TRACK_01.mp3 and then in sequence.
+- Add the files to the card. make sure the SD card has the files labeled track001.mp3 and then in sequence.
 
 - insert the SD card to the mp3 shield
 

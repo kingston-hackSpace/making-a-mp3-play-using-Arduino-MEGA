@@ -1,3 +1,9 @@
+# Instructions for playing an mp3
+
+The mp3 shield allows audio playback using an arduino as the trigger. Speakers can be plugged in using a phono jack.
+
+——
+
 ### assembly
 
 assemble the kit as shown in the diagram above
@@ -20,6 +26,6 @@ assemble the kit as shown in the diagram above
 
 ### run the sketch
 
-- Upoad the sketch above to the arduino. 
+-Upoad the sketch above to the arduino. 
 
 - It should play the first track on the mp3 shield.

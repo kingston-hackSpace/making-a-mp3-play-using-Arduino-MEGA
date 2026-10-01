@@ -1,20 +1,26 @@
 # Instructions for playing an mp3
 
-The mp3 shield allows audio playback using an arduino as the trigger. Speakers can be plugged in using a phono jack.
+——
+### DESCRIPTION
+
+Using an **Arduino MP3 Shield** for audio playback. Speakers can be plugged in using a 3.5mm jack.
 
 ——
-
-### assembly
-
-you will need...
+### HARDWARE
 
 - Arduino MEGA
-- speark fun mp3 shield
-- speaker with phono jack
+
+- Sparkfun MP3 Shield
+
+- Speaker with 3.5mm jack
+
+——
+### WIRING
 
 assemble the kit as shown in the hookup guide [here](https://learn.sparkfun.com/tutorials/mp3-player-shield-hookup-guide-v15)
 
-### libraries
+——
+### INSTALLING LIBRARIES
 
 - download the library from [here](https://github.com/madsci1016/Sparkfun-MP3-Player-Shield-Arduino-Library/tree/master/SFEMP3Shield)
 
